@@ -46,7 +46,7 @@ Follow these steps to set up your own IoT MP3 Player:
    - Go to **Sketch** -> **Include Library** -> **Manage Libraries**.
    - Search for each library and click **Install**.
 
-4. **Assemble the hardware** following the video provided in the repository. Ensure all connections are secure.
+4. **Assemble the hardware**. Ensure all connections are secure.
 
 5. **Upload the code** to your Arduino Uno.
 
