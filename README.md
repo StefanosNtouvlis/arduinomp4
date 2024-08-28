@@ -72,7 +72,7 @@ There are numerous potential upgrades for this project:
 
 If you have any questions or would like to collaborate, feel free to reach out!
 
-- **LinkedIn**: [Stefanos Ntouvlis]([https://www.linkedin.com/in/stefanosntouvlis/])
+- **LinkedIn**: [Stefanos Ntouvlis](https://www.linkedin.com/in/stefanosntouvlis/)
 
 ## 🙌 Acknowledgments
 
